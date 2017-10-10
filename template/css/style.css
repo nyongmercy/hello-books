@@ -1,0 +1,62 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400|Passion+One:400");
+
+.app-name {
+    color: darkslategrey;
+    font-weight: 200;
+    line-height: 1.0;
+    margin: 0;
+    font-size: 2.3em;
+    font-family: 'Passion One', cursive;
+    vertical-align: baseline;
+}
+
+.search-box {
+    font-family: "Sans-serif", Candara;
+    font-size: 10pt;
+    font-weight: bold;
+    width:75%;
+    padding: 30px;
+    color: black;
+}
+
+table {
+    margin: 20px;
+    padding: 0px;
+    border: 0px;
+    border-collapse: collapse;
+    vertical-align: middle;
+}
+
+.header-table {
+    width:80%; 
+    margin-left:10%; 
+    margin-right:10%;
+}
+
+.book-table {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
+
+.book-row {
+    border-bottom: 1px solid grey;
+}
+
+.table-book-title {
+    font-family: "Sans-serif", Candara;
+    font-size: 13pt;
+    font-weight: bold;
+    color: black;
+}
+
+.table-author {
+    font-family: "Sans-serif", Candara;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.checked {
+    color: orange;
+}
